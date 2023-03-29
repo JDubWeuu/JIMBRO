@@ -15,8 +15,8 @@ h1 {
 }
 hr {
   margin: 20px auto;
-  color: #F05F44;
-  border: 1px solid #F05F44;
+  color: #037ffc;
+  border: 1px solid #037ffc;
   max-width: 65px;
   opacity: 1;
 }
@@ -29,14 +29,14 @@ hr {
   text-transform: uppercase;
 }
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44;
-  --bs-btn-hover-bg: #ee4b08; 
-  --bs-btn-hover-border-color: #ee4b08;
+  background-color: #037ffc;
+  border-color: #037ffc;
+  --bs-btn-hover-bg: #0845c9; 
+  --bs-btn-hover-border-color: #0845c9;
 }
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+  background-color: #0845c9;
+  border-color: #0845c9;
   border-width: 4px;
 }
 .btn-xl {
